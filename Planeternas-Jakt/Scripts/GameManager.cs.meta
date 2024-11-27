@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: decab221756f0f746a3057c802fd79ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startButton: {instanceID: 0}
+  - scoreButton: {instanceID: 0}
+  - restartButton: {instanceID: 0}
+  - player: {instanceID: 0}
+  - ball: {instanceID: 0}
+  - blockPrefab: {fileID: 2822988472016726887, guid: c7852dee3b67875459028fa92d367c0b, type: 3}
+  - shadowPrefab: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - diamondText: {instanceID: 0}
+  - highScoreText: {instanceID: 0}
+  - highScoreEndText: {instanceID: 0}
+  - popupPanel: {instanceID: 0}
+  - questionText: {instanceID: 0}
+  - answerButton1: {instanceID: 0}
+  - answerButton2: {instanceID: 0}
+  - answerButton3: {instanceID: 0}
+  - planetCollector: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
