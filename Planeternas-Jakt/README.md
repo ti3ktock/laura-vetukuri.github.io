@@ -5,7 +5,7 @@ An interactive and educational game where players explore the solar system, answ
 
 ---
 
-## 🗺️ Table of Contents
+## Table of Contents
 
 - [About the Game](#about-the-game)  
 - [Features](#features)  
@@ -62,7 +62,7 @@ Utforska solsystemet i ett interaktivt spel där du samlar planeter, svarar på 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Unity Engine**  
   For game development, rendering, and physics simulation.
