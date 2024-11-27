@@ -1,2 +1,0 @@
-# todoList
-Inlämningsuppgift-LV
