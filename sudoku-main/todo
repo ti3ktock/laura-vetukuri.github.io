@@ -1,0 +1,38 @@
+Transferred notes from paper and evolved todo list:
+Todo:
+27. felhantering for typo or other input than the needed one.
+30. I could actually combine the exit the game and show sudoku in one command
+
+Would be good to have
+    26. make a generated sudoku
+    18. make a score board
+    19. store game "points/wins"
+
+
+Done:
+1. install numpy
+2. import numpy as np
+3. create an empty board 9x9
+4. create board layout
+5. write sudoku rules(valid moves)
+6. print board with reference letters and numbers
+# Have to decide between a generated sudoku or a sample sudoku.
+7. decided to make a sample sudoku
+8. make the sudoku solve itself
+9. remove the solve code, so that i can add user input
+10. add user input
+11. add user input number into board
+12. print the updated board after every input
+20. jupiter  notebook is not the most user friendly for playing this game. Can't see the moves after every input
+21. switch back to py file
+13. make sure that the number is valid
+#Repeat text of the above# -->22. ! just saw that it adds the number but it wont check if the number is a valid number for that cell. Fix that
+25. there are too many solutions for the sudoku, make a solved sudoku list and use that as a template if it is a valid number or not
+16. is board complete?
+14. write  message for wrong input or other errors
+28. I noticed that when i start the game it prints the board 2 times. I forgot to remove the printed board from before the while loop takes place.  Done
+29. activate the solve sudoku code and write a code for the user to choose if they want to have the game solved
+17. add more sample sudokus (or nr 26)
+15. quit game option before the sudoku is solved(not difficult, but not a priority)
+23. comment the code
+24. write a detailed description of the application
