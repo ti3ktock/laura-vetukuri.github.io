@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "content": "please"
+  },
+  {
+    "id": 3,
+    "content": "moved the filehandling to another js file. is it working?"
+  },
+  {
+    "id": 1,
+    "content": "double checking"
+  }
+]

@@ -1,0 +1,21 @@
+{
+
+
+    "name": "todo",
+    "version": "1.0.0",
+    "description": "A todo list done in the consol",
+    "main": "todo.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "ti3ktock",
+    "license": "ISC",
+    "repository": "git@github.com:ti3ktock/todo.git",
+
+
+    "type": "module",
+    "dependencies": {
+    "prompt-sync": "^4.2.0"
+
+  }
+}
