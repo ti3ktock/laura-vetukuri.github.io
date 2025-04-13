@@ -8,4 +8,16 @@
 - will be able to toggle between months
 
 <H4> To book a chamber the following need to be entered:
-- booking 
+- payers name
+- payers department
+- payers contact details
+- booking start date
+- booking estimated end date
+- number of sqm, if applicable 
+- cost center nr
+- project nr
+- crop
+- climate details: day lenght hour, start day, temp day/night, ventilation day/night, humidity, additional lights, shading
+
+
+<H4> Behaviour
